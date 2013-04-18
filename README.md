@@ -23,3 +23,4 @@ The Deck class should contain three public methods:
 
 * There is no support for jokers
 * A better data structure for a deck would be a Deque, but the functionality it adds was not required by the spec
+* It's probably possible to game the pseudo-random shuffling method
